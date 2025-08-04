@@ -1,0 +1,50 @@
+# ========================================= #
+# UNITY 6 - GIT IGNORE RECOMENDADO          #
+# ========================================= #
+
+# --- Directorios generados por Unity ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+
+# --- Archivos de proyecto y editor ---
+/.vs/
+/.vscode/
+/*.csproj
+/*.sln
+/*.suo
+/*.userprefs
+/ProjectSettings/EditorBuildSettings.asset
+
+# --- Archivos de assets y caché ---
+/Assets/AssetStoreTools*
+/Assets/Plugins.meta
+/Assets/TextMesh* Pro/
+
+# --- Archivos específicos de Unity 6 ---
+/UserSettings/
+/Packages/packages-lock.json
+/Packages/manifest.json.bak
+
+# --- Plataformas específicas ---
+/[Aa]ndroid/
+/[Ii]OS/
+/[Ww]ebGL/
+
+# --- Archivos temporales y logs ---
+*.tmp
+*.log
+*.pid
+*.bak
+
+# --- Archivos de IDE ---
+.idea/
+.vs/
+
+# --- Archivos de sistema ---
+.DS_Store
+Thumbs.db
