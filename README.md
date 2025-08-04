@@ -1,6 +1,4 @@
 # BasicPixelJumper
----
-
 
 ## 🔹 1. **Descripción breve**
 
