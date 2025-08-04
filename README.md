@@ -6,7 +6,6 @@
 
 Ejercicio de plataformas 2D es el punto de partida perfecto: combina física básica, input del jugador, diseño de niveles y lógica sencilla. En este proyecto crearás *Basic Pixel Jumper*, un ejercicio basado en un minijuego donde un personaje salta plataformas, recoge monedas, esquiva enemigos y llega a una meta.
 
----
 
 ## 🔹 2. Mecánicas y sistemas del juego
 
