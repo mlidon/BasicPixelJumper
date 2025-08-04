@@ -25,10 +25,6 @@ Ejercicio de plataformas 2D es el punto de partida perfecto: combina física bá
 * **Animación**: Transiciones entre idle, correr, salto.
 * **Tilemap**: Construcción del mundo fácilmente.
 
----
-
-
-
 ## 🔹 3. Instalación  
 
 ### **📦 Clona el repositorio**:  
@@ -37,7 +33,6 @@ Ejercicio de plataformas 2D es el punto de partida perfecto: combina física bá
 
    Abre el proyecto en Unity: 6000.0.32f1
    ```
-
 
 ### 🛠️ Tecnologías Utilizadas  
 | **Tecnología**  | **Uso**                     |  
